@@ -13,7 +13,7 @@ I did not create the ip Capture code, has been an adaptation from a YouTube tuto
 
 https://youtu.be/vPhNjXy0nnk?list=PLiqpS5UbGg9FgbrrYyyHDPFdDEkGe9lVh
 
---- How dows this Works? ---
+--- How does this Work? ---
 
 The php code uses the fopen, fwrite, fclose in order to edit the text file where the ip will be saved.
 Using the $_SERVER['REMOTE_ADDR'] captures the IP adress of the server under which the current script is executing.
