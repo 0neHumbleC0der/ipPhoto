@@ -1,5 +1,8 @@
 # ipPhoto
 
+
+ipPhoto: an Open Source project.
+
 How to design a brief website that will write viewer IP into file. 
 
 PLEASE NOTE: All code included in this project is with educational purposes only. 
