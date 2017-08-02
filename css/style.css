@@ -1,0 +1,17 @@
+
+body.body_work{
+  background-size: cover;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cerro_de_la_Silla.jpg/1200px-Cerro_de_la_Silla.jpg");
+  background-repeat: space;
+  position: absolute;
+}
+footer{
+  padding: 13px;
+  margin-top: 50%;
+  height: 45px;
+  font-family: Nunito;
+}
+
+nav.navbar.navbar-light.bg-faded{
+font-family: Bowlby One SC;
+}
